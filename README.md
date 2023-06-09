@@ -5,5 +5,5 @@
 texto teste:
 
 ```
-texto teste.
+node app.js
 ```
