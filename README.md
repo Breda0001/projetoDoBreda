@@ -1,4 +1,4 @@
-<h1>Projeto teste</h1> 
+<h1 align="center">Projeto teste</h1> 
 
 > status: em desenvovimento
 
